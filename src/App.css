@@ -1,0 +1,121 @@
+* {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+
+#mdl-pink:hover {
+    background-color: #E35F9a;
+}
+
+#mdl-orange:hover {
+    background-color: #FD9D48;
+}
+
+#mdl-blue:hover {
+    background-color: #338DaC;
+}
+
+#pop {
+    background-color: #E3306F;
+    border-radius: 8px;
+}
+
+#pop:hover {
+    background-color: #E3306F;
+    border-radius: 8px;
+}
+
+#tool {
+    background-color: #E3306F;
+    border-radius: 8px;
+    color: white;
+}
+
+#tool:hover {
+    background-color: #E3306F;
+    border-radius: 8px;
+    color: white;
+}
+
+#tools {
+    font-size: large;
+}
+
+#stack {
+    transform: rotate(180deg);
+    margin-right: 38%;
+}
+
+#avatar {
+    transform: rotate(180deg);
+}
+
+#avatar-group {
+    font-size: large !important;
+    width: 50% !important;
+    height: 30% !important;
+}
+
+#btnsec {
+    color: white !important;
+    border-radius: 8px !important;
+}
+
+#btn-radio:focus {
+    color: white;
+    background-color: #344767;
+}
+
+#for-hov:hover {
+    color: white;
+    background-color: #e3326F;
+    border-color: white;
+}
+
+#for-hov:focus {
+    color: white;
+    background-color: #e3326F;
+    border-color: pink;
+}
+
+#prim {
+    background-color: #E63472 !important;
+    border-radius: 8px;
+}
+
+#secon {
+    background-color: #626A79 !important;
+    border-radius: 8px;
+}
+
+#suce {
+    background-color: #60B765 !important;
+    border-radius: 8px;
+}
+
+#dang {
+    background-color: #E54540 !important;
+    border-radius: 8px;
+}
+
+#warn {
+    background-color: #FD9F1B !important;
+    border-radius: 8px;
+}
+
+#info {
+    background-color: #3892ED !important;
+    border-radius: 8px;
+}
+
+#light {
+    background-color: #E1E5EB !important;
+    color: #37363C;
+    border-radius: 8px;
+}
+
+#dark {
+    background-color: #37363C !important;
+    border-radius: 8px;
+}
